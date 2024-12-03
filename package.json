@@ -1,0 +1,35 @@
+{
+	"name": "call-bound",
+	"version": "0.0.0",
+	"description": "Robust call-bound JavaScript intrinsics, using `call-bind` and `get-intrinsic`.",
+	"main": "index.js",
+	"exports": {
+		".": "./index.js",
+		"./package.json"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ljharb/call-bound.git"
+	},
+	"keywords": [
+		"callbind",
+		"javascript",
+		"intrinsic",
+		"intrinsics",
+		"bind",
+		"bound",
+		"callbound",
+		"call-bind",
+		"call-bound",
+		"ecmascript"
+	],
+	"author": "Jordan Harband <ljharb@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ljharb/call-bound/issues"
+	},
+	"homepage": "https://github.com/ljharb/call-bound#readme"
+}
