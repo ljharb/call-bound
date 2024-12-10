@@ -5,6 +5,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.0.2](https://github.com/ljharb/call-bound/compare/v1.0.1...v1.0.2) - 2024-12-10
+
+### Commits
+
+- [Dev Deps] update `@arethetypeswrong/cli`, `@ljharb/tsconfig`, `gopd` [`e6a5ffe`](https://github.com/ljharb/call-bound/commit/e6a5ffe849368fe4f74dfd6cdeca1b9baa39e8d5)
+- [Deps] update `call-bind`, `get-intrinsic` [`2aeb5b5`](https://github.com/ljharb/call-bound/commit/2aeb5b521dc2b2683d1345c753ea1161de2d1c14)
+- [types] improve return type [`1a0c9fe`](https://github.com/ljharb/call-bound/commit/1a0c9fe3114471e7ca1f57d104e2efe713bb4871)
+
 ## v1.0.1 - 2024-12-05
 
 ### Commits
