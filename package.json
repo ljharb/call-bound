@@ -50,8 +50,8 @@
 	},
 	"homepage": "https://github.com/ljharb/call-bound#readme",
 	"dependencies": {
-		"call-bind": "^1.0.7",
-		"get-intrinsic": "^1.2.4"
+		"call-bind": "^1.0.8",
+		"get-intrinsic": "^1.2.5"
 	},
 	"devDependencies": {
 		"@arethetypeswrong/cli": "^0.17.1",
