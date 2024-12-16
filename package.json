@@ -1,6 +1,6 @@
 {
 	"name": "call-bound",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Robust call-bound JavaScript intrinsics, using `call-bind` and `get-intrinsic`.",
 	"main": "index.js",
 	"exports": {
